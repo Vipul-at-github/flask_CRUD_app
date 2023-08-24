@@ -1,7 +1,3 @@
-![Get list of all users](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/099ee453-5331-433d-b83c-3e8573d0c68b)
-![PUT_requestjpg](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/999468c7-43ea-4a9d-85d4-76dda7c309df)
-
-
 # Flask CRUD Application with MongoDB
 
 ## Description
