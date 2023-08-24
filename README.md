@@ -26,9 +26,13 @@ This project is a Flask application that performs CRUD operations on a MongoDB d
 
 ## Screenshots
 ![Screenshot of Postman for GET Users Endpoint](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/099ee453-5331-433d-b83c-3e8573d0c68b)
+GET request to get the list of all users with details
 ![Screenshot of Postman for PUT request to User by ID Endpoint]([screenshots/get_user_by_id.png](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/999468c7-43ea-4a9d-85d4-76dda7c309df))
+Put request for user by ID
 ![DELETE_request](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/40d60bd5-c6a1-4428-988c-416384442591)
+DELETE request for user by ID
 ![Mongodb Setup](https://github.com/Vipul-at-github/flask_CRUD_app/assets/107127776/a863ee19-89e1-4775-8aab-15e4bee36197)
+Mongodb local setup in compass
 
 
 
